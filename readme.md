@@ -1,5 +1,5 @@
 # Sitecore.Support.131108
-In case several users change the same workflow at the same time without locking, the following exception may occur: &quot;Could not find command definition {id}&quot;.
+In case several users change the same workflow at the same time without lockingin the Workbox, the following exception may occur: &quot;Could not find command definition {id}&quot;.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.131108/blob/master/LICENSE).  

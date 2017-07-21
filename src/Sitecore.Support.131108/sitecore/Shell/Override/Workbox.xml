@@ -7,7 +7,7 @@
     <Stylesheet Src="Ribbon.css" DeviceDependant="true"/>
     <Stylesheet Src="Workbox.css" DeviceDependant="true"/>
     <Stylesheet Src="/sitecore/shell/themes/navigator.css"/>
-    <Script Src="/sitecore/shell/Applications/Content Manager/Content Editor.js"/>
+    <Script Src="/sitecore/shell/Applications/Content Manager/Content Editor.js"/> 
 
     <Stylesheet Key="Workbox">
       html { width:100%; height:100% }
